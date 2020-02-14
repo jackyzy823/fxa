@@ -153,3 +153,8 @@ sub-billing-update-success = Your billing information has been updated successfu
 
 ## subscription create
 sub-failed = Subscription failed
+
+## plan-details
+plan-details-header = Product details
+plan-details-show-button = Show details
+plan-details-hide-button = Hide details
